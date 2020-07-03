@@ -1,4 +1,4 @@
-# terraform-plus-ansible-autoscaling-example
+# terraform-ansible-aws-autoscaling-example
 Example use of terraform use with ansible for ressource provisionning, configuration management and app deployment
 
 **Requirements**
