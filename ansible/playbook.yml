@@ -1,0 +1,4 @@
+- hosts: tag_Name_yassir_dev_cluster_web
+  remote_user: ansible  
+  roles:  
+  - { role: webserver, become: yes }

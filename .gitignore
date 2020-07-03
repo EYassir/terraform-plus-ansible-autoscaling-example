@@ -1,0 +1,6 @@
+ansible-build-master.pem
+cluster-slave-key.pem
+*.tfstate
+*tfstate.backup
+
+**/.terraform/
